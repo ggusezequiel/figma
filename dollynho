@@ -1,0 +1,245 @@
+.dollynho {
+  background-color: #f6a5a6;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.dollynho .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 525px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 104px;
+}
+
+.dollynho .div {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 198px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 104px;
+}
+
+.dollynho .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 837px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 100px;
+}
+
+.dollynho .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 96px;
+}
+
+.dollynho .overlap {
+  height: 688px;
+  left: 71px;
+  position: absolute;
+  top: 189px;
+  width: 1270px;
+}
+
+.dollynho .p {
+  color: #005b1a;
+  font-family: "Lobster-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 83px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1187px;
+}
+
+.dollynho .LATA-MOCKUP {
+  height: 444px;
+  left: 254px;
+  object-fit: cover;
+  position: absolute;
+  top: 165px;
+  width: 791px;
+}
+
+.dollynho .descubra-o-novo {
+  color: #ffffff;
+  font-family: "Jockey One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 262px;
+  width: 407px;
+}
+
+.dollynho .cherries-reference {
+  height: 221px;
+  left: 419px;
+  position: absolute;
+  top: 93px;
+  transform: rotate(-20.93deg);
+  width: 183px;
+}
+
+.dollynho .overlap-group {
+  height: 343px;
+  left: -74px;
+  position: relative;
+  top: -61px;
+  width: 331px;
+}
+
+.dollynho .img {
+  height: 272px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 36px;
+  transform: rotate(20.93deg);
+  width: 250px;
+}
+
+.dollynho .overlap-wrapper {
+  height: 199px;
+  left: 723px;
+  position: absolute;
+  top: 304px;
+  transform: rotate(52.33deg);
+  width: 175px;
+}
+
+.dollynho .overlap-2 {
+  height: 368px;
+  left: -96px;
+  position: relative;
+  top: -84px;
+  width: 367px;
+}
+
+.dollynho .cherries-reference-2 {
+  height: 260px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  transform: rotate(-52.33deg);
+  width: 264px;
+}
+
+.dollynho .overlap-group-wrapper {
+  height: 221px;
+  left: 466px;
+  position: absolute;
+  top: 307px;
+  transform: rotate(-19.55deg);
+  width: 117px;
+}
+
+.dollynho .overlap-3 {
+  height: 295px;
+  left: -70px;
+  position: relative;
+  top: -37px;
+  width: 256px;
+}
+
+.dollynho .cherries-reference-3 {
+  height: 248px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  transform: rotate(19.55deg);
+  width: 184px;
+}
+
+.dollynho .div-wrapper {
+  height: 221px;
+  left: 531px;
+  position: absolute;
+  top: 437px;
+  transform: rotate(52.33deg);
+  width: 183px;
+}
+
+.dollynho .overlap-4 {
+  height: 398px;
+  left: -107px;
+  position: relative;
+  top: -88px;
+  width: 397px;
+}
+
+.dollynho .cherries-reference-4 {
+  height: 280px;
+  left: 55px;
+  object-fit: cover;
+  position: absolute;
+  top: 59px;
+  transform: rotate(-52.33deg);
+  width: 287px;
+}
+
+.dollynho .cherries-reference-5 {
+  height: 52px;
+  left: 675px;
+  position: absolute;
+  top: 248px;
+  transform: rotate(79.06deg);
+  width: 110px;
+}
+
+.dollynho .overlap-5 {
+  height: 93px;
+  left: -10px;
+  position: relative;
+  top: -21px;
+  width: 130px;
+}
+
+.dollynho .cherries-reference-6 {
+  height: 118px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: -12px;
+  transform: rotate(-79.06deg);
+  width: 72px;
+}
+
+.dollynho .ellipse {
+  height: 532px;
+  left: 468px;
+  position: absolute;
+  top: 122px;
+  width: 364px;
+}
