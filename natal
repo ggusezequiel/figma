@@ -1,0 +1,122 @@
+.natal {
+  background-color: #ffbbbb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.natal .div {
+  background-color: #ffbbbb;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.natal .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 547px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 104px;
+}
+
+.natal .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 292px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+  width: 46px;
+}
+
+.natal .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 826px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+  width: 100px;
+}
+
+.natal .text-wrapper-4 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  width: 96px;
+}
+
+.natal .overlap-group {
+  height: 453px;
+  left: 163px;
+  position: absolute;
+  top: 179px;
+  width: 1113px;
+}
+
+.natal .p {
+  color: #000000;
+  font-family: "Lobster-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 1113px;
+}
+
+.natal .rtulo-natal-dolly {
+  height: 321px;
+  left: 247px;
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 556px;
+}
+
+.natal .n-o-deixe-passar {
+  color: #000000;
+  font-family: "Jockey One-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 1031px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 641px;
+  width: 336px;
+}
+
+.natal .o-natal-chegou-mais {
+  color: #000000;
+  font-family: "Jockey One-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 641px;
+  width: 415px;
+}
