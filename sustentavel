@@ -1,0 +1,184 @@
+.sustentavel {
+  background-color: #ffbbbb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sustentavel .div {
+  background-color: #ffbbbb;
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.sustentavel .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 527px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 104px;
+}
+
+.sustentavel .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 305px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 52px;
+}
+
+.sustentavel .text-wrapper-3 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 838px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  width: 100px;
+}
+
+.sustentavel .nossa-promo-o {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 1088px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 91px;
+  transform: rotate(0.40deg);
+  width: 120px;
+}
+
+.sustentavel .overlap {
+  height: 693px;
+  left: 305px;
+  position: absolute;
+  top: 134px;
+  width: 3679px;
+}
+
+.sustentavel .overlap-group {
+  height: 693px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3679px;
+}
+
+.sustentavel .text-wrapper-4 {
+  color: #000000;
+  font-family: "Lobster-Regular", Helvetica;
+  font-size: 96px;
+  font-weight: 400;
+  left: 157px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+  width: 3522px;
+}
+
+.sustentavel .ellipse {
+  background-color: #fff0f0;
+  border-radius: 170.5px / 161px;
+  height: 322px;
+  left: 192px;
+  position: absolute;
+  top: 146px;
+  width: 341px;
+}
+
+.sustentavel .cereja {
+  height: 508px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 508px;
+}
+
+.sustentavel .a-dolly-guaran-agora {
+  color: #000000;
+  font-family: "Inknut Antiqua-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 507px;
+  width: 578px;
+}
+
+.sustentavel .cherries-reference {
+  height: 133px;
+  left: 32px;
+  position: absolute;
+  top: 56px;
+  transform: rotate(52.33deg);
+  width: 106px;
+}
+
+.sustentavel .overlap-group-2 {
+  height: 236px;
+  left: -64px;
+  position: relative;
+  top: -51px;
+  width: 235px;
+}
+
+.sustentavel .img {
+  height: 165px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 35px;
+  transform: rotate(-52.33deg);
+  width: 170px;
+}
+
+.sustentavel .overlap-wrapper {
+  height: 107px;
+  left: 664px;
+  position: absolute;
+  top: 253px;
+  transform: rotate(-40.29deg);
+  width: 96px;
+}
+
+.sustentavel .overlap-2 {
+  height: 201px;
+  left: -53px;
+  position: relative;
+  top: -47px;
+  width: 201px;
+}
+
+.sustentavel .cherries-reference-2 {
+  height: 143px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  transform: rotate(40.29deg);
+  width: 142px;
+}
