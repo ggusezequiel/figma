@@ -1,0 +1,117 @@
+.promo {
+  background-color: #ffbbbb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.promo .div {
+  background-color: #ffbbbb;
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.promo .sustentabilidade {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 500px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 104px;
+}
+
+.promo .inicio {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 108px;
+  width: 48px;
+}
+
+.promo .text-wrapper {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 13px;
+  font-weight: 400;
+  left: 849px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 109px;
+  width: 100px;
+}
+
+.promo .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 1176px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  width: 96px;
+}
+
+.promo .overlap {
+  height: 455px;
+  left: 110px;
+  position: absolute;
+  top: 273px;
+  width: 1114px;
+}
+
+.promo .overlap-group {
+  height: 455px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1114px;
+}
+
+.promo .p {
+  color: #000000;
+  font-family: "Lobster-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 736px;
+}
+
+.promo .whatsapp-image {
+  height: 422px;
+  left: 523px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 591px;
+}
+
+.promo .comprou-dolly-agora {
+  color: #000000;
+  font-family: "Jockey One-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 194px;
+  width: 464px;
+}
